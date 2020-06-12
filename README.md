@@ -17,13 +17,13 @@ The project requires us to build data structures necessary to support link submi
 ## Getting Started
 You may use the following steps to get a local copy:
 
--Clone project to your local machine
--cd to the project directory
--Open project in terminal
--run the bundler
--test it in the console
--run rails db:migrate
--input User, Post or Comment to reveal the structure of each model
+- Clone project to your local machine
+- cd to the project directory
+- Open project in terminal
+- run the bundler
+- test it in the console
+- run rails db:migrate
+- input User, Post or Comment to reveal the structure of each model
 
 
 ## 🤝 Contributing
